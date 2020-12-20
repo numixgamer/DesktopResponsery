@@ -1,0 +1,16 @@
+body{background-color: white;}
+
+.MyBtn{
+    background-color: transparent;
+    border-color: transparent;
+    outline: none;
+}
+
+.MyBtn:hover{
+    border-color: #099AFB ;
+}
+
+.Align-Right{text-align:right;}
+
+.FirsDiv{background-color:white;}
+

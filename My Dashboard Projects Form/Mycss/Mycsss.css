@@ -1,0 +1,19 @@
+.AboutForm{
+    height: 700px;
+    width: 650px;
+    background-color: #E8E7E7;
+    margin: 20px 100px;
+    text-align: right;
+}
+
+.div1{
+    text-align: right;
+    color: #5E5C5C;
+}
+.div2{
+    color: #5E5C5C;
+    
+}
+
+.AboutTitle{color: #5E5C5C;text-align: center;}
+

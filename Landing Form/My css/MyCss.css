@@ -1,0 +1,79 @@
+.navbar{text-align: right           !important;}
+.btn {background-color: #44ED13   !important;}
+#about{background-color: #0FD534  !important;}
+#Mybtn{background-color: white    !important;}
+.fa-4x{color: #3BB4FF             !important;}
+#about2{background-color: #3BB4FF !important;}
+.Mytxt{color: white              !important;}
+.AboutMeFirstdiv{text-align: right  !important;}
+.CoNnetOus{text-align: center       !important;}
+.MyForm{
+    margin:auto -60px               !important;
+    text-align: center              !important;
+    outline-color: red;
+}
+.contentTXT{
+    width: 300px                    !important;                   
+    margin:auto 500px               !important;
+    /*border-color:  #44ED13;*/
+}
+
+.contentLabel{margin: auto  !important;}
+
+.contentBtn{
+    margin: auto 500px;
+    background-color: white !important;
+    color: #3BB4FF;
+}
+.contentBtn:hover{
+    border-color: green;
+    color:#3BB4FF ;
+}
+
+.connectForm{text-align: center;}
+
+#MyBtn{
+     
+    background-color: white;
+    border-color: #3BB4FF;
+    width: 300px;
+    color:red;
+}
+#MyBtn:hover{
+    border-color: blue;
+}
+.WrongTXT{color: red !important;}
+
+.MyLogo{color: red;}
+
+#facbookLogo{color: blue ;}
+
+.MyLogoBtn{
+    background-color: transparent;
+    border:none;
+    margin: -10px 5px;
+    
+}
+
+.Myhr{border:3px solid green !important;border-radius: 30px !important;}
+
+
+#FacebookBtn{color: cornflowerblue;}
+#InstagramBtn{color: #FE00C3;}
+#TelegramBtn{color: #138FE3;}
+#GithubBtn{color: white;}
+#WhtsappbBtn{color: #16E313;}
+#TwitterBtn{color: #13E3CF;}
+
+#ExitBtn{
+    background-color:transparent;
+    border:1px solid red;
+    color:red;
+    outline:none;    
+}
+#ExitBtn:hover{
+    background-color:red;
+    color:white;
+    border-radius:6px;
+}
+.Transparent{color:transparent}

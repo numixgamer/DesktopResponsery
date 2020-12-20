@@ -1,0 +1,43 @@
+body{background-color: rgb(223, 223, 223);}
+
+.MyBtn{
+    background-color: transparent;
+    border-color: transparent;
+    outline: none;
+}
+
+.MyBtn:hover{
+    border-color: #099AFB;
+}
+
+.MyContainerDiv{
+    /*border:1px solid gray;*/
+    padding-top: 100px;
+    box-shadow: gray 1px 1px 3px;
+    
+}
+
+.AlignRighttxt{
+    text-align: right;
+    
+}
+
+.Silent{color: #808080 ;text-align: right;}
+
+.TextArea{
+    height: 200px;width: 100%;
+    box-shadow: gray 0px 0px 1px;
+    border: 1px solid gray ;
+    outline: none;
+    text-align: right;
+    border-radius: 5px;
+    
+}
+.TextArea:focus{
+    /*border-color:  #1945EE;
+    box-shadow: #099899  1px 1px 4px , -1px -1px 4px */
+}
+
+.Btn{margin: 100px auto;}
+
+.MyContainerDiv{background-color: white;}
